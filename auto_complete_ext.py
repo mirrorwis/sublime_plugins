@@ -1,3 +1,5 @@
+# http://stackoverflow.com/questions/9081846/sublime-text-2-auto-complete-suggest-from-other-files
+
 import sublime_plugin, sublime
 
 class AutocompleteAll(sublime_plugin.EventListener):
