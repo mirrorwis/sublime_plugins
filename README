@@ -1,0 +1,3 @@
+My Plugins for Sublime text 2
+
+1. auto_complete_ext.py: Native auto-complete feature only complete within current file. This plugin extends to all opened files.
